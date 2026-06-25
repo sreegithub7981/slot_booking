@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Environment
+backend/.env
+
+# React Native
+mobile/node_modules/
+
+# Expo
+mobile/.expo/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
