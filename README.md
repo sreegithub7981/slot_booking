@@ -1,6 +1,10 @@
 # Slot Booking App
 
+<<<<<<< HEAD
 Backend Development Branch
+=======
+Database Feature Branch
+>>>>>>> feature/database
 
 Tech Stack
 
